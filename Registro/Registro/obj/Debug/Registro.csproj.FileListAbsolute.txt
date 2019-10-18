@@ -1,0 +1,9 @@
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\bin\Debug\Registro.exe.config
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\bin\Debug\Registro.exe
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\bin\Debug\Registro.pdb
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\obj\Debug\Registro.Form1.resources
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.Cache
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\obj\Debug\Registro.exe
+c:\users\sonia\documents\visual studio 2015\Projects\Registro\Registro\obj\Debug\Registro.pdb

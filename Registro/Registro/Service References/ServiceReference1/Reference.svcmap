@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ead4a098-e793-4fae-993f-4e3026bacb6a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57466/Registro.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Registro.disco" MetadataType="Disco" ID="954aba7d-31d3-4e28-8234-3d2d3ce99965" SourceId="1" SourceUrl="http://localhost:57466/Registro.svc?disco" />
+    <MetadataFile FileName="Registro.xsd" MetadataType="Schema" ID="7e0af644-d784-4c4c-9fa9-6ec196b0e5d4" SourceId="1" SourceUrl="http://localhost:57466/Registro.svc?xsd=xsd2" />
+    <MetadataFile FileName="Registro1.xsd" MetadataType="Schema" ID="62ebfcbe-bf5b-40f8-8075-9ffb99b4c9c4" SourceId="1" SourceUrl="http://localhost:57466/Registro.svc?xsd=xsd0" />
+    <MetadataFile FileName="Registro2.xsd" MetadataType="Schema" ID="e45f2a5c-bfa7-45e7-b1eb-c300a857d6e1" SourceId="1" SourceUrl="http://localhost:57466/Registro.svc?xsd=xsd1" />
+    <MetadataFile FileName="Registro.wsdl" MetadataType="Wsdl" ID="ce440b37-c875-42c7-8963-94bbbd89ef53" SourceId="1" SourceUrl="http://localhost:57466/Registro.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
